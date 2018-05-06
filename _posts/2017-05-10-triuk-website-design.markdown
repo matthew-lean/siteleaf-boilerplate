@@ -1,18 +1,19 @@
 ---
+title: TriUk – Website Splashpage Redesign
+date: 2017-05-10 00:00:00 Z
+permalink: "/triuk-splashpage/"
+categories:
+- jekyll post website
 layout: default-post
-title: "TriUk – Website Splashpage Redesign"
-date:  2017-05-10
-category: jekyll post website
 category-type: website
 img: 20170510-triuk-website-design-thumb.jpg
 author: matthew_lean
-description: TriUk.com is an eCommerce website which sells bikes and triathlon gear. The main page highlights the newest deals and is the most important page on the site.
-# Extras.
+description: TriUk.com is an eCommerce website which sells bikes and triathlon gear.
+  The main page highlights the newest deals and is the most important page on the
+  site.
 color-1: 0f0f0f
 color-2: e42628
 comments: true
-published: true
-permalink: /triuk-splashpage/
 ---
 
 ## Black Friday – Homepage Redesign

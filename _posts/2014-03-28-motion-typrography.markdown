@@ -1,18 +1,17 @@
 ---
+title: Motion Typrography
+date: 2014-03-28 00:00:00 Z
+permalink: "/motion-typography/"
+categories:
+- jekyll post video
 layout: default-post
-title: "Motion Typrography"
-date:  2014-03-28
-category: jekyll post video
 category-type: video
 img: 20140328-motion-typrography-thumb.jpg
 author: matthew_lean
 description: Motion typography and animation work using After Effects.
-# Extras.
 color-1: b5b5b5
 color-2: 140e77
 comments: true
-published: true
-permalink: /motion-typography/
 ---
 
 ## Gravity Trailer

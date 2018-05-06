@@ -1,19 +1,20 @@
 ---
+title: weCook - Graduate Project
+date: 2017-03-11 00:00:00 Z
+permalink: "/weCook/"
+categories:
+- jekyll post main website
 layout: default-post
-title:  "weCook - Graduate Project"
-date:  2017-03-11
-category: jekyll post main website
 category-type: Website
 img: wecook-trailer.jpg
 video: wecook.mp4
 author: matthew_lean
-description: weCook is a social recipe website, designed to make it easy to follow and edit recipes. Recipes added to the site are open to editing by all users, allowing for multiple versions of the recipe to be made.
-# Extras.
+description: weCook is a social recipe website, designed to make it easy to follow
+  and edit recipes. Recipes added to the site are open to editing by all users, allowing
+  for multiple versions of the recipe to be made.
 color-1: 00d0ff
 color-2: 0e6aed
 comments: true
-published: true
-permalink: /weCook/
 ---
 
 <!-- <iframe src="https://player.vimeo.com/video/215204627" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

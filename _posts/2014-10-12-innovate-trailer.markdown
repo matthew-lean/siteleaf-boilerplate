@@ -1,18 +1,18 @@
 ---
+title: Innovate - Uni Project
+date: 2014-10-12 00:00:00 Z
+permalink: "/innovate/"
+categories:
+- jekyll post video
 layout: default-post
-title: "Innovate - Uni Project"
-date:  2014-10-12
-category: jekyll post video
 category-type: video
 img: 20141012-innovate-thumb.jpg
 author: matthew_lean
-description: A channel project production made for Bournemouth University. A trailer about a girl who has a dream to make a 3D Printer.
-# Extras.
+description: A channel project production made for Bournemouth University. A trailer
+  about a girl who has a dream to make a 3D Printer.
 color-1: f6781c
 color-2: 0d39b7b0
 comments: true
-published: true
-permalink: /innovate/
 ---
 
 <div href="#" data-featherlight="{{ site.url }}/assets/site-post/innovateHeader.png" class="img" alt="innovate trailer monopoly house"><img src="{{ site.url }}/assets/site-post/innovateHeader.png"></div>
