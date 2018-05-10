@@ -1,18 +1,18 @@
 ---
+title: Keytek Locksmith Training Academy - Wordpress Site
+date: 2017-11-20 00:00:00 Z
+permalink: "/keytek-academy/"
+categories:
+- jekyll website post featured
 layout: default-post
-title: "Keytek Locksmith Training Academy - Wordpress Site"
-date:  2017-11-20
-category: jekyll website post featured
 category-type: website
 img: locksmith-training-render.jpg
 author: matthew_lean
-description: Creating a custom Wordpress theme for the Keytek Academy to promote their Locksmith training courses.
-# Extras.
+description: Creating a custom Wordpress theme for the Keytek Academy to promote their
+  Locksmith training courses.
 color-1: ffffff00
 color-2: 2f2f2f
 comments: true
-published: true
-permalink: /keytek-academy/
 ---
 
 <div href="#" data-featherlight="{{ site.url }}/assets/site-post/locksmith-training-render.jpg" class="img" alt="keytek academy design render"><img src="{{ site.url }}/assets/site-post/locksmith-training-render.jpg"></div>

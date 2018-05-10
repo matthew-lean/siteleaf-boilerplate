@@ -1,18 +1,17 @@
 ---
-layout: default-post
-title: "Home"
-date:  2018-01-01
-category: home
+title: Home
+date: 2018-01-01 00:00:00 Z
+permalink: "/"
+categories:
+- home
 category-type: post
 img: rainbow-breakfast.jpg
 author: matthew_lean
 description: Blog for Matthew Lean.
-# Extras.
 color-1: ef5036
 color-2: ff562f
 comments: true
-published: true
-permalink: /
+layout: default-home
 ---
 
 # h1 Title

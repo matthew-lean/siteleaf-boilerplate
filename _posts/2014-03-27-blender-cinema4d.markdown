@@ -1,18 +1,17 @@
 ---
+title: Blender / Cinema 4D
+date: 2014-03-27 00:00:00 Z
+permalink: "/blender-cinema4d/"
+categories:
+- jekyll post graphic
 layout: default-post
-title: "Blender / Cinema 4D"
-date:  2014-03-27
-category: jekyll post graphic
 category-type: graphics
 img: 20140327-blender-cinema4d-thumb.jpg
 author: matthew_lean
 description: Blender and Cinema4D, learning new rendering engines.
-# Extras.
 color-1: ff8fb066
 color-2: ff590000
 comments: true
-published: true
-permalink: /blender-cinema4d/
 ---
 
 ## Cinema 4D

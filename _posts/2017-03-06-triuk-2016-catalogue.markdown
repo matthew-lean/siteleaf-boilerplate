@@ -1,18 +1,19 @@
 ---
+title: TriUk – 2016 Catalogue Print Design
+date: 2017-03-06 00:00:00 Z
+permalink: "/triuk-2016-catalogue/"
+categories:
+- jekyll post graphic print
 layout: default-post
-title: "TriUk – 2016 Catalogue Print Design"
-date:  2017-03-06
-category: jekyll post graphic print
 category-type: graphic
 img: 20170306-triuk-2016-catalogue-thumb.jpg
 author: matthew_lean
-description: Near to the end of last year I started with a small team, designing the TriUk 2016 catalogue. The catalogue would be an information point to be handed out at events and in store.
-# Extras.
+description: Near to the end of last year I started with a small team, designing the
+  TriUk 2016 catalogue. The catalogue would be an information point to be handed out
+  at events and in store.
 color-1: 0f0f0f
 color-2: e42628
 comments: true
-published: true
-permalink: /triuk-2016-catalogue/
 ---
 
 <div href="#" data-featherlight="{{ site.url }}/assets/site-post/20170306-triuk-2016-catalogue-thumb.jpg" class="img" alt="triuk 2016 catalogue banner"><img src="{{ site.url }}/assets/site-post/20170306-triuk-2016-catalogue-thumb.jpg"></div>
