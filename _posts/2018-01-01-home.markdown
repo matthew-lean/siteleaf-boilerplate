@@ -8,8 +8,8 @@ category-type: post
 img: rainbow-breakfast.jpg
 author: matthew_lean
 description: Blog for Matthew Lean.
-color-1: ef5036
-color-2: ff562f
+color-1: 004cff
+color-2: 004cff
 comments: true
 layout: default-home
 ---
